@@ -19,9 +19,9 @@
 
 ### How to use
 
-1. 查看 [常见问题]( ) 
+1. 查看 [常见问题](https://github.com/airlookmap/JS-API/blob/master/question.md) 
 
-2. 提交 [工单]( )
+2. 提交 [工单](https://github.com/airlookmap/JS-API/issues/new/choose)
 
 ### Others
 

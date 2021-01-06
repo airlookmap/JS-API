@@ -14,4 +14,4 @@
 
 4. 进行页面交互时添加的 Marker 无反应，但是初始化有效？  
 
-	一般情况下由于离屏渲染造成的影响，解决方案：1. 强制执行刷新帧 `map.forceRender()`    2. 关闭离屏渲染 `map.requestRenderMode = false`。
+	一般情况下由于离屏渲染造成的影响，解决方案：1. 强制执行刷新帧 `map.forceRender()`    2. 关闭离屏渲染 `map.requestRenderMode = true`。
